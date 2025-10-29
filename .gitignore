@@ -6,3 +6,26 @@ Myjacenv/
 __pycache__/
 
 *.log
+
+# Rust
+/target/
+/**/*.rs.bk
+Cargo.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+venv/
+env/
+.Python
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+>>>>>>> a18b568cde67c5d6d069a656a77924cc9dd83a62
